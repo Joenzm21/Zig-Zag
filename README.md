@@ -1,5 +1,4 @@
 # Zig Zag
-A remake game based on the same name game of Ketchapp. Make with Unity.
 <h2>How to build?</h2>
 <h3>Step 1: Clone this git.</h3>
 <h3>Step 2: In Unity Hub, Add the recently cloned git folder.</h3>
